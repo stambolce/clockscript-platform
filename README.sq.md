@@ -2,11 +2,11 @@
 
 # ClockScript
 
-**Trajneri shkruan. Grupi vazhdon.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="ClockScript — Workout execution; conceptual product illustration" />
+<img src="assets/product-hero.svg" width="100%" alt="ClockScript — prezantim vizual i produktit" />
+
+**Trajneri shkruan. Grupi vazhdon.**
 
 [![Website](https://img.shields.io/badge/clockscript.mk-Official_Website-1476e8?style=for-the-badge)](https://clockscript.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://clockscript.mk/)
@@ -69,7 +69,7 @@ Ilustrimi është konceptual, jo pamje e aplikacionit. Faqja zyrtare ofron ndër
 | Hollësia | Vlera |
 |---|---|
 | Domeni | [clockscript.mk](https://clockscript.mk/) |
-| Kategoria | Workout execution |
+| Kategoria | Organizim dhe realizim stërvitjesh |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Burimi: [Faqja zyrtare](https://clockscript.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
